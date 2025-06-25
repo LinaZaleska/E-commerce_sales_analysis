@@ -27,8 +27,8 @@ This project analyzes sales data from an online craft store to identify top prod
 
 ## 🔗 Dataset
 
-Retail dataset from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset))  
-
+Retail dataset from [Kaggle]([(https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset)])  
+]
 
 ## 👤 Author
 
