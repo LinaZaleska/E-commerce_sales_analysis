@@ -25,10 +25,10 @@ This project analyzes sales data from an online craft store to identify top prod
 - Open `products_workbook.twbx` in Tableau (Public or Desktop)
 - Run `e-commerce-sales.ipynb` in Jupyter (install pandas, seaborn)
 
-## 🔗 Dataset
+## Dataset
 
 Retail dataset from [Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset)
 
-## 👤 Author
+## Author
 
 **Lina Zaleska** – Data Analyst  
